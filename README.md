@@ -62,7 +62,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ### 7.Live page
 
-You can access the live page from [here]()
+You can access the live page from [here](https://vkc-blog.netlify.app/)
 
 ### 8.Credits
 
