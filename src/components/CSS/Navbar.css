@@ -1,0 +1,17 @@
+.navbar {
+  background-color: darkgreen;
+  color: darkgreen;
+}
+
+.navbar-nav .nav-link {
+  color: darkgreen;
+}
+
+.navbar-nav .nav-link:hover {
+  color: green;
+}
+
+.navbar-nav .nav-link.active {
+  border-bottom: 4px solid rgb(28, 168, 28);
+}
+
